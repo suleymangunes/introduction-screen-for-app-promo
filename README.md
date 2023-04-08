@@ -1,16 +1,21 @@
-# introduction_pages_for_promo
+# Introduction, App Promo
 
-A new Flutter project.
+In this project making promo for app using introduction.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Images
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  <img src="readme_files/fitst.png" width="200" hspace="20">
+  <img src="readme_files/second.png" width="200" hspace="20">
+  <img src="readme_files/third.png" width="200" hspace="20">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gif
+
+<p>
+  <img src="readme_files/intro_gif.gif" width="200" hspace="20">
+
+</p>
