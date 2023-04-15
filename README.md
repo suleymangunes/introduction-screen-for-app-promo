@@ -10,7 +10,7 @@ In this project making promo for app using introduction.
   <img src="readme_files/fitst.png" width="200" hspace="20">
   <img src="readme_files/second.png" width="200" hspace="20">
   <img src="readme_files/third.png" width="200" hspace="20">
-
+s
 </p>
 
 ## Gif

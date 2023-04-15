@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:introduction_pages_for_promo/introduction/dots_decoration.dart';
 import 'package:introduction_pages_for_promo/introduction/model/page_model_list.dart';
 import 'package:introduction_pages_for_promo/product/constants/intro_constants.dart';
 import 'package:introduction_screen/introduction_screen.dart';
@@ -14,13 +15,7 @@ class Introduction {
     onDone: () {
       // On button pressed
     },
-    dotsDecorator: DotsDecorator(
-      size: IntroConstants.dotSquare,
-      activeSize: IntroConstants.dotSize,
-      color: IntroConstants.dotColor,
-      spacing: IntroConstants.dotSpacing,
-      activeShape: RoundedRectangleBorder(borderRadius: IntroConstants.dotsBorderCircular),
-    ),
+    dotsDecorator: DotsDecoration.decoration,
     baseBtnStyle: TextButton.styleFrom(
       shape: RoundedRectangleBorder(borderRadius: IntroConstants.buttonBorderCircular),
     ),
